@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
     <a href="https://djangochannel.com" target="_blank" rel="noopener noreferrer">
         <img width="100" src="logo.png" title="djangoschool">
@@ -23,3 +24,6 @@
 - Фильтры
 
 
+=======
+# Django_movie
+>>>>>>> 7f0fa36996a68e50f3715a57ac29d352b74cc846
